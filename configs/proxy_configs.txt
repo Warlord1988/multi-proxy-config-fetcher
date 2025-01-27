@@ -78,9 +78,9 @@ trojan://2cba4104747d49d18319e5ade1b93ab5@yourjobnavigator.online:443?security=t
 
 trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#%F0%9F%94%AE6%40oneclickvpnkeys
 
-trojan://3723507166611775488@sensible-ocelot.boa152.lol:443/?type=tcp&security=tls&sni=sensible-ocelot.boa152.lol&allowInsecure=1#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://3763495894587285504@185.67.125.147:443?security=tls&headerType=&type=tcp&sni=optimal-owl.goat627.mom#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
+trojan://3763495982449565696@closing-phoenix.goat627.mom:443/?type=tcp&security=tls&sni=closing-phoenix.goat627.mom#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxSERGOTlsWDRsM3EwVEVLRThkR2Vm@13.49.69.38:64731/?POST%20#Server-3
 
