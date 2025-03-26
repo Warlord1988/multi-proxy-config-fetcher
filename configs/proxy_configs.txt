@@ -118,8 +118,6 @@ trojan://NEHZp72yf2@dr-ping.ir:443?type=tcp&headerType=http&host=Zula.ir&path=/D
 
 trojan://Pooria@104.17.147.22:80?path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560&security=none&host=redfree8w.pooriam.ir&type=ws#@meli_proxyy
 
-trojan://Pooria@104.17.147.22:80?path=%2FtrLwW5jiTelegramFreeV2Alpha%3Fed%3D2560&security=none&host=redfree8w.pooriam.ir&type=ws#⚜️Telegram:@IP_CF••••••••••••••••••••••••••••••••••• Channel : @IP_CF_Config Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
-
 trojan://Pooria@104.17.148.22:443?path=%2FtrPyOrWMfkHd15oxiI%3Fed%3D1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.pOORiAm.ir#Channel+id%3A+%40ShadowProxy66%F0%9F%87%A9%F0%9F%87%AA
 
 trojan://ebhZ11qYng@51.195.254.75:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&headerType=none&fp=random&type=tcp&sni=uk-02.allhubb.info#IR-%F0%9F%9A%80%40proxy_shadosocks%F0%9F%9A%80حمایت ها فراموش نشه @proxy_shadosocks
@@ -159,6 +157,8 @@ trojan://telegram-id-directvpn@3.65.235.46:22222?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@35.179.14.223:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 trojan://telegram-id-directvpn@35.180.154.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@54.217.71.51:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN @DirectVPN ✴️
 
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VDZBaGpNTVRxZHVZWHBXN0MwTTFqNmI5eEtwZjJHdCs3b0dYMlU0bndyST0@156.246.94.9:22579#%F0%9F%87%AF%F0%9F%87%B5%20JP%201 Get 1 year premium VPN (100 tokens) for just $0.03 @vpnfail_bot
 
